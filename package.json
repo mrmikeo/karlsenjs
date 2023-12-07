@@ -1,0 +1,30 @@
+{
+  "author": {
+    "name": "mrmikeo"
+  },
+  "bugs": {
+    "url": "https://github.com/mrmikeo/karlsenjs/issues"
+  },
+  "dependencies": {
+    "@grpc/grpc-js": "^1.6.7",
+    "@grpc/proto-loader": "^0.6.13"
+  },
+  "description": "Simple Kaspa library for interacting with Kaspad & Kaspawalletd gRPC",
+  "homepage": "https://github.com/mrmikeo/karlsenjs#readme",
+  "keywords": [
+    "kaspa",
+    "karlsenjs",
+    "cryptocurrency"
+  ],
+  "license": "GPL-2.0",
+  "main": "index.js",
+  "name": "karlsenjs",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mrmikeo/karlsenjs.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "2.0.3"
+}
